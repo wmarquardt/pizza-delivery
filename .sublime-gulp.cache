@@ -1,0 +1,1 @@
+{"/var/www/sistemas/compra-pizzas/gulpfile.js":{"sha1":"6f5168affc246ac6d222dda9c30ef22af7f11449","tasks":{"js":{"name":"js","dependencies":""},"css":{"name":"css","dependencies":""},"default":{"name":"default","dependencies":"js css"}}}}

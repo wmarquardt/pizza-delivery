@@ -1,0 +1,115 @@
+html, body, div{
+	max-width: 100%;
+}
+footer{
+	margin-top: 10px;
+	width: 100%;
+	border-top: 1px solid #dedede;
+	color: #666;
+}
+.tit-sep{
+	text-transform: uppercase;
+	border-bottom: 1px solid #ddd;
+	font-size: 0.8em;
+}
+.error{
+	color: red;
+}
+.navbar{
+	border-radius: 0 !important;
+}
+.no-show{
+	display: none;
+}
+.box_sabores_select{
+	height: 300px;
+	width: 100%;
+	background: #ddd;
+	overflow-x: hidden;
+	overflow-y: scroll; 
+}
+.sabor-lista{
+	width: 100%;
+	background: #fff;
+	color: #555;
+	padding: 10px 20px 10px 20px;
+	transition: all 0.7s;
+	border-bottom: 3px dotted #555 ;
+}
+.pontilhado-em-cima{
+	border-top: 3px dotted #555 ;
+}
+}
+.sabor-lista:hover{
+	background: #ddd;
+	cursor: pointer;
+}
+.sabor-lista-selecionado{
+	background: #555;
+	color: #fff;
+}
+.sabor-lista-selecionado:hover{
+	background: #555;
+	color: #fff;
+	cursor: pointer;
+}
+.box_lista_sabores_item{
+	background: #fafafa;
+	border-bottom: 1px solid #555;
+	width: 100%;
+	padding: 10px;
+	transition: all 0.7s;
+	color: #666;
+}
+.box_lista_sabores_item:hover{
+	background: #eee;
+}
+.removeSabor{
+	text-align: center;
+	transition: all 0.7s;
+	background: red;
+	color: #fff;
+	height: 100%;
+	padding: 10px;
+}
+.removeSabor:hover{
+	background: #fff;
+	color: red !important;
+	cursor: pointer;
+}
+.table-header, .table-header > th{
+	background: #f7f7f7 !important; 
+}
+.linhaEdt{
+	background: #ffc !important;
+}
+optgroup{
+	font-style:normal;
+	font-weight:bold;
+}
+.table-hover, .table-hover tr{
+	transition: all 0.7s;
+}
+.table-hover tr:hover{
+	background: #ff9 !important;
+}
+
+.dados-endereco p{
+	line-height: 10px;
+	font-size: 10px;
+}
+.modal-backdrop{
+	z-index: 99998 !important;
+}
+.modal{
+	z-index: 99999 !important;
+}
+.overlay {
+    background-color: rgba(250, 250, 250, 0.7);
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 999999 !important ;
+}	

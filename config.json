@@ -1,0 +1,9 @@
+{
+	"conf": {
+  		"empresa": "Pizzaria ZAZ",
+  		"default_email" : "contato@poraodazaz.com.br",
+  		"system_email" : "contato@poraodazaz.com.br",
+  		"app_email" : "contato@poraodazaz.com.br",
+  		"site" : "http://www.poraodazaz.com.br"
+	}
+}

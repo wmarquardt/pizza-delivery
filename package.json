@@ -1,0 +1,18 @@
+{
+  "name": "pizza-delivery",
+  "version": "0.0.1",
+  "description": "A simple pizza delivery web app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-ngmin": "^0.3.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11"
+  }
+}
